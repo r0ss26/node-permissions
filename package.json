@@ -1,0 +1,24 @@
+{
+  "name": "node-permissions",
+  "version": "1.0.0",
+  "description": "node-permissions web dev simplified tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r0ss26/node-permissions.git"
+  },
+  "author": "Ross Baker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r0ss26/node-permissions/issues"
+  },
+  "homepage": "https://github.com/r0ss26/node-permissions#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
